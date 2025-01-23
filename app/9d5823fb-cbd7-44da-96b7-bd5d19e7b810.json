@@ -1,0 +1,14 @@
+{
+  "pageDefinitionId" : "9d5823fb-cbd7-44da-96b7-bd5d19e7b810",
+  "pageSchema" : {
+    "properties" : { },
+    "controlSchema" : {
+      "schema" : {
+        "type" : "object",
+        "properties" : { }
+      }
+    }
+  },
+  "title" : "Landing",
+  "versionName" : "1.0"
+}
