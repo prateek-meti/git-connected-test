@@ -1,0 +1,19 @@
+{
+  "applicationId" : "d23c8882-fbf4-4541-acd7-5f063393bfba",
+  "applicationName" : "demo1",
+  "icon" : "LogoIconOnlyAnalyticsComponent",
+  "sections" : [ {
+    "name" : "Home",
+    "icon" : "Apps",
+    "pageDefinitionId" : "9d5823fb-cbd7-44da-96b7-bd5d19e7b810",
+    "description" : "",
+    "sections" : [ ],
+    "accessRoles" : null,
+    "privileges" : null
+  } ],
+  "accessRoles" : [ ],
+  "applicationState" : "DRAFT",
+  "gitUrl" : "https://github.com/prateek-meti/git-connected-test",
+  "defaultBranch" : "main",
+  "applicationI18nFiles" : [ ]
+}
