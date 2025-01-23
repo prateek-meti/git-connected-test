@@ -1,0 +1,11 @@
+{
+  "accessRoles": [],
+  "applicationId": "7b932928-5bed-4aed-929d-7ff3a2d753d1",
+  "applicationName": "demo1-subpath",
+  "applicationState": "DRAFT",
+  "defaultBranch": "main",
+  "gitSubpath": "nest1",
+  "gitUrl": "https://github.com/prateek-meti/git-connected-test",
+  "icon": "LogoIconOnlyConnectComponent",
+  "sections": []
+}
